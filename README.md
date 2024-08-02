@@ -9,7 +9,7 @@
   
 - 😄 Pronouns: He/Him
 
-- 📫 How to reach me **raiyann.jacob@mail.utoronto.ca**
+- 📫 How to reach me: **raiyann.jacob@mail.utoronto.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
