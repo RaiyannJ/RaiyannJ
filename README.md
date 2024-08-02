@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raiyann!</h1>
-<h3 align="center">A 3rd year Engineering Science student at the University of Toronto specializing in Machine Intelligence Engineering and a minor in Robotics and Mechatronics. I am an aspiring ML/AI engineering who is enthusiastic about Robotics and Embedded Systems!</h3>
+<h3 align="center">A 3rd year Engineering Science student at the University of Toronto specializing in Machine Intelligence Engineering and a minor in Robotics and Mechatronics. I am an aspiring ML/AI engineer who is enthusiastic about Robotics and Embedded Systems!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyannj&label=Profile%20views&color=0e75b6&style=flat" alt="raiyannj" /> </p>
 
-- 🌱 I’m currently learning **about Reinforcement Learning and Control System applications in autonomus vehicles!**
+- 🌱 I’m currently learning **about Reinforcement Learning and Control System applications in autonomous vehicles while also brushing up on my ROS skills.**
 
-- 👯 I’m looking to collaborate on **any project in the field of machine learning, artificial intelligence or robotic systems!**
+- 👯 I’m looking to collaborate on **any project in machine learning, artificial intelligence or robotic systems! Any opportunity to build my knowledge of PyTorch and TensorFlow interests me a lot!**
   
--  😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 - 📫 How to reach me **raiyann.jacob@mail.utoronto.ca**
 
